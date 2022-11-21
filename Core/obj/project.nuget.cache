@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "dE+E9lWxjh9zLT1KYba+R1nAdNHsUeliHlcJ4/gwyIPaaDtbz5V7SO7/T6abN38Kfr3xOmMY1KsDjRItZCVjnA==",
+  "success": true,
+  "projectFilePath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LONGPV\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\LONGPV\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\LONGPV\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\LONGPV\\.nuget\\packages\\restsharp\\106.13.0\\restsharp.106.13.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

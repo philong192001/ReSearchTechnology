@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TSNi7b/vQBWqcmKiG8r3Pdjj7iibBa7jX/yU6xubb2I=",
+  "Source": "Locust.LoadTestHttp",
+  "BasePath": "_content/Locust.LoadTestHttp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

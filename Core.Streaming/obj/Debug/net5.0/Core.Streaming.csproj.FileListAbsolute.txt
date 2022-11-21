@@ -1,0 +1,15 @@
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\bin\Debug\net5.0\Core.Streaming.deps.json
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\bin\Debug\net5.0\Core.Streaming.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\bin\Debug\net5.0\Core.Streaming.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\bin\Debug\net5.0\Core.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\bin\Debug\net5.0\Core.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.csproj.CopyComplete
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\ref\Core.Streaming.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\Core.Streaming.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.Streaming\obj\Debug\net5.0\refint\Core.Streaming.dll

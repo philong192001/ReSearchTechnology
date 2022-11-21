@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DwO5jK2hkIsdABOhZLANtLg8DAu8MOi8cbPXl54iKvU=",
+  "Source": "Locust.LoadTestHttp",
+  "BasePath": "_content/Locust.LoadTestHttp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

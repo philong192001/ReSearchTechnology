@@ -1,0 +1,15 @@
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\bin\Debug\net6.0\ref\ConsoleApp1.dll
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\MicroServices\TestJson\TestConvertJson\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache

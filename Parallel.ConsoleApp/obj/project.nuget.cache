@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "pmmhmEe4UkHsTlLl0pe+LVYQ3zk7dEdPwb4brlH1WhobS7xbvCXRi8ZQqq0cDvBdZSxwn7E2zN41A4uABhOh/Q==",
+  "success": true,
+  "projectFilePath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Parallel.ConsoleApp\\Parallel.ConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

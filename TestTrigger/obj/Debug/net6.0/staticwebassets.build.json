@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1i8Zg1oGSOEYtCnSDewFsG29AbSQ4lvdIMPRsjBVwRI=",
+  "Source": "TestTrigger",
+  "BasePath": "_content/TestTrigger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

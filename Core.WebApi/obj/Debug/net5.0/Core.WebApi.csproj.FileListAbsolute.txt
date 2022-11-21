@@ -1,0 +1,12 @@
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\bin\Debug\net5.0\Core.WebApi.deps.json
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\bin\Debug\net5.0\Core.WebApi.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\bin\Debug\net5.0\Core.WebApi.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\ref\Core.WebApi.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\Core.WebApi.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.WebApi\obj\Debug\net5.0\refint\Core.WebApi.dll

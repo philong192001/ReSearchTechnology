@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\AutoConsumeMsg\\AutoConsumeMsg.csproj": {}
+  },
+  "projects": {
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\AutoConsumeMsg\\AutoConsumeMsg.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\AutoConsumeMsg\\AutoConsumeMsg.csproj",
+        "projectName": "AutoConsumeMsg",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\AutoConsumeMsg\\AutoConsumeMsg.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\AutoConsumeMsg\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming.Kafka\\Core.Streaming.Kafka.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming.Kafka\\Core.Streaming.Kafka.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming.Kafka\\Core.Streaming.Kafka.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming.Kafka\\Core.Streaming.Kafka.csproj",
+        "projectName": "Core.Streaming.Kafka",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming.Kafka\\Core.Streaming.Kafka.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming.Kafka\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming\\Core.Streaming.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming\\Core.Streaming.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Confluent.Kafka": {
+              "target": "Package",
+              "version": "[1.8.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming\\Core.Streaming.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming\\Core.Streaming.csproj",
+        "projectName": "Core.Streaming",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming\\Core.Streaming.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Streaming\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

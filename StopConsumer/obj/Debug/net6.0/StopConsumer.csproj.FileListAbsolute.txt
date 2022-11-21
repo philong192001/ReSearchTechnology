@@ -1,0 +1,7 @@
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.MvcApplicationPartsAssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\StopConsumer\obj\Debug\net6.0\StopConsumer.MvcApplicationPartsAssemblyInfo.cache

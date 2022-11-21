@@ -1,0 +1,346 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Payments\\Payments.csproj": {}
+  },
+  "projects": {
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Marten\\Core.Marten.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Marten\\Core.Marten.csproj",
+        "projectName": "Core.Marten",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Marten\\Core.Marten.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Marten\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\Core.Serialization.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\Core.Serialization.csproj"
+              },
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Marten": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\Core.Serialization.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\Core.Serialization.csproj",
+        "projectName": "Core.Serialization",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\Core.Serialization.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.13.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Orders\\Orders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Orders\\Orders.csproj",
+        "projectName": "Orders",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Orders\\Orders.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Orders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Marten\\Core.Marten.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Marten\\Core.Marten.csproj"
+              },
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\MicroServices\\TestJson\\TestConvertJson\\Payments\\Payments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\MicroServices\\TestJson\\TestConvertJson\\Payments\\Payments.csproj",
+        "projectName": "Payments",
+        "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Payments\\Payments.csproj",
+        "packagesPath": "C:\\Users\\LONGPV\\.nuget\\packages\\",
+        "outputPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Payments\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\LONGPV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core\\Core.csproj"
+              },
+              "E:\\MicroServices\\TestJson\\TestConvertJson\\Orders\\Orders.csproj": {
+                "projectPath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Orders\\Orders.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

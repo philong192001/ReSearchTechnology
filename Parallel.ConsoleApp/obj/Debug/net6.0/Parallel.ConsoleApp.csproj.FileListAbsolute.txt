@@ -1,0 +1,15 @@
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\bin\Debug\net6.0\Parallel.ConsoleApp.exe
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\bin\Debug\net6.0\Parallel.ConsoleApp.deps.json
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\bin\Debug\net6.0\Parallel.ConsoleApp.runtimeconfig.json
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\bin\Debug\net6.0\Parallel.ConsoleApp.dll
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\bin\Debug\net6.0\Parallel.ConsoleApp.pdb
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.dll
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\refint\Parallel.ConsoleApp.dll
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.pdb
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\Parallel.ConsoleApp.genruntimeconfig.cache
+E:\MicroServices\TestJson\TestConvertJson\Parallel.ConsoleApp\obj\Debug\net6.0\ref\Parallel.ConsoleApp.dll

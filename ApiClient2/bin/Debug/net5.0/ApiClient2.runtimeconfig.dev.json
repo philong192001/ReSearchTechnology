@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\LONGPV\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\LONGPV\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "KucDrV1a1EewRFbHmKGUTrFj1KIbNrg1j9lcj6zsY3SlD0pnJBRMCASrdBHNBN5m4FPVIA8LwUZh3Dwc8ptFvg==",
+  "success": true,
+  "projectFilePath": "E:\\MicroServices\\TestJson\\TestConvertJson\\AutoSubMsgNormal\\AutoSubMsgNormal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LONGPV\\.nuget\\packages\\confluent.kafka\\1.9.3\\confluent.kafka.1.9.3.nupkg.sha512",
+    "C:\\Users\\LONGPV\\.nuget\\packages\\librdkafka.redist\\1.9.2\\librdkafka.redist.1.9.2.nupkg.sha512",
+    "C:\\Users\\LONGPV\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

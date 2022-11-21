@@ -1,0 +1,12 @@
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core\bin\Debug\net5.0\Core.deps.json
+E:\MicroServices\TestJson\TestConvertJson\Core\bin\Debug\net5.0\Core.dll
+E:\MicroServices\TestJson\TestConvertJson\Core\bin\Debug\net5.0\Core.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.dll
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\ref\Core.dll
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\Core.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\Core\obj\Debug\net5.0\refint\Core.dll

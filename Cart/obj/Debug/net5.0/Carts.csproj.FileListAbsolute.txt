@@ -1,0 +1,12 @@
+E:\MicroServices\TestJson\TestConvertJson\Cart\bin\Debug\net5.0\Carts.deps.json
+E:\MicroServices\TestJson\TestConvertJson\Cart\bin\Debug\net5.0\Carts.dll
+E:\MicroServices\TestJson\TestConvertJson\Cart\bin\Debug\net5.0\Carts.pdb
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.dll
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\ref\Carts.dll
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\Carts.pdb
+E:\MicroServices\TestJson\TestConvertJson\Cart\obj\Debug\net5.0\refint\Carts.dll

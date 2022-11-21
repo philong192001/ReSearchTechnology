@@ -1,0 +1,12 @@
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\bin\Debug\net5.0\Core.Serialization.deps.json
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\bin\Debug\net5.0\Core.Serialization.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\bin\Debug\net5.0\Core.Serialization.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.AssemblyInfoInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.AssemblyInfo.cs
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.csproj.CoreCompileInputs.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\ref\Core.Serialization.dll
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.pdb
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\Core.Serialization.csproj.AssemblyReference.cache
+E:\MicroServices\TestJson\TestConvertJson\Core.Serialization\obj\Debug\net5.0\refint\Core.Serialization.dll

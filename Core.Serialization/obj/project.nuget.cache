@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "IntjYUrk1NY8ufmNQQJ3JeC85ZXAsHb09GVQbbBX7QqB7KXIaRflhlLp2P32sfmEIHc3LCopVSV9m78SGfVzuw==",
+  "success": true,
+  "projectFilePath": "E:\\MicroServices\\TestJson\\TestConvertJson\\Core.Serialization\\Core.Serialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LONGPV\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://devops/APP-BDRD/InternalNuGet/_packaging/LocalNuget/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
